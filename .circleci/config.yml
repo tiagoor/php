@@ -35,3 +35,9 @@ jobs:
         
       # run tests! 2
       - run: phpunit
+
+workflow:
+  version:2
+  bvild_and_test:
+    jobs:
+      - build
