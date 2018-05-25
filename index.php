@@ -1,5 +1,5 @@
 <?php
-// echo "THX Phpinfo()"
+// echo "THX 11 Phpinfo()"
 // Show all information, defaults to INFO_ALL
 phpinfo();
 
