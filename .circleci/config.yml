@@ -8,4 +8,7 @@ jobs:
     docker:
       # specify the version you desire here
       - image: alpine
+    #working_directory: ~/alpine
+    steps:
+      - checkout
       
